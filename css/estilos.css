@@ -1,0 +1,484 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+hr.vertical{
+    border: 0; 
+    width: 10%;
+    margin-left: -10rem;
+    border-left: 4px solid #01DF01;
+    margin-top: -64.5%;
+    height: 50px;  
+}
+
+#navi{
+    margin-left: 38rem;
+    margin-top: -5%;
+    width: 62%;
+}
+
+#tituwe{
+    margin-top: -48%;
+    font-family: 'ABeeZee', sans-serif;
+    font-size:5em;
+}
+
+#contecolornegro{
+    background: #000000;
+}
+
+#colo{
+    background: #000000;
+}
+
+.imacard{
+    width: 30%;
+    height: 30%;;
+}
+
+#titu-card{
+    color:#FFFFFF;
+    text-align: justify;
+}
+
+#text-cardidex{
+    color:#FFFFFF;
+    text-align: justify;
+    white-space: nowrap;
+}
+
+#footnegro{
+    background: #000000;
+}
+
+#titufoot{
+
+    color: #FFFFFF;
+}
+
+.vertical2{
+    border: 0; 
+    width: 10%;
+    margin-left: -1rem;
+    border-left: 4px solid #01DF01;
+    margin-top: -20%;
+    height: 50px;  
+    position: absolute;
+}
+
+.texto-index{
+    color: #FFFFFF;
+    font-family: 'Rokkitt', serif;
+    font-size: 1em;
+}
+
+.titufoot2{
+    color: #FFFFFF;
+}
+
+.horizontfoot{
+    border: 0;
+    width:25%; 
+    margin-top:0%;
+    border-top: 2px solid #01DF01; 
+    border-bottom: 2px solid #01DF01; 
+    height:0;
+   
+}
+
+#selecfoot{
+    line-height: 1pt;  
+    background: #000000;  
+}
+
+.letrablanca{
+    color: #FFFFFF;
+}
+
+hr.horizontalfoot{
+    border: 0;
+    width:94%; 
+    margin-top:0%;
+    border-top: 1px solid #848484; 
+    border-bottom: 2px solid #848484; 
+    height:0;
+    margin-left:1rem;
+
+}
+.textresal{
+    font-size:1.1em;
+    font-family: 'Candal', sans-serif;
+}
+
+.icono{
+    width: 10%;
+    height: 10%;
+    background: #FFFFFF;
+    margin: 5px;
+}
+
+.navcontene{
+    background: #01DF01;
+    margin-left: 65rem;
+    width: 30%;
+}
+
+ nav.nav-position{
+    
+    margin-top: -5%;
+    width:18%;
+    position: absolute;
+}
+
+#cajatext{
+    width:45%;
+}
+
+.textverdefoot{
+    color: #01DF01;
+}
+
+/**************************NAV******************************/
+
+li.nav-position{
+    margin-left: 40rem;
+    
+}
+
+.vertical3{
+    border: 0; 
+    width: 10%;
+    margin-left: 5rem;
+    border-left: 4px solid #01DF01;
+    margin-top: -3%;
+    height: 50px;  
+    position: absolute;
+}
+
+#navi2{
+    background: #000000;
+}
+
+/**************************ABOUT US********************************/
+
+.tituPrinGlobal{
+    margin-top: 6%;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 3em;
+}
+
+.horizontal{
+    border: 0;
+    width:3%; 
+    margin-top:0%;
+    border-top: 2px solid #01DF01; 
+    border-bottom: 2px solid #01DF01; 
+    height:0;
+}
+
+.text-global{
+    margin-top: 1%;
+    font-family: 'Overpass', sans-serif;
+}
+
+#contenePrinAboutUs{
+    width: 85%;
+    margin: 3% auto;
+}
+
+.imaabout{
+    width: 100%;
+    height:250px;
+    
+}
+
+#titucardAbout{
+    text-align: center;
+    font-family: 'Seymour One', sans-serif;
+    font-size: 2em;
+
+}
+
+.text-AboutUs{
+    text-align: justify;
+}
+/********************SERVICES*******************/
+
+#conteneServ{
+    margin-top: 3%;
+}
+
+.imaminiserv{
+    margin-left: -5rem;
+    margin-top: -5rem;
+}
+
+.text-ima-mini{
+   color: #848484;
+}
+
+#contedegra{
+    margin-top: 5%;
+}
+
+#imadegra{
+    height:15rem;
+}
+
+#boton{
+    border-radius: 40px;
+    border-color: #FFFFFF;
+   
+}
+
+.progress{
+    width: 65%;
+    height:5%;
+    line-height: 25pt;
+}
+
+#imafacts{
+    width:70%;
+    height:450px;
+    margin-top:10%;
+}
+
+#conteclients{
+    border-radius: 10px;
+}
+
+.centrar{
+    color: #F2F2F2;
+
+}
+
+/*********************PORTAFOLIO**************************/
+
+#contebot{
+    margin-left: 10rem;
+    
+}
+
+#contebot2{
+    margin-left: 8rem;
+    
+}
+
+#contebot3{
+    margin-left: 2rem;
+    
+}
+
+#botonacor{
+    position:absolute;
+    width:-10rem;   
+    border: none;
+    
+}
+
+#acor{
+    width: 70rem;
+    
+}
+
+#acor2{
+    width:70rem;
+    margin-inline-start: -20rem;    
+}
+
+#acor3{
+    width:70rem;
+    margin-inline-start: -40rem;
+}
+
+#acor4{
+    width:50rem;
+    margin-inline-start: -45rem;
+    
+}
+
+.tituOurClients{
+    margin-top: 72%;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 3em;
+}
+
+#carruport{
+    margin-top: 5%;
+    height:8rem;
+}
+
+#indi li{
+    margin-top: 10rem;
+    background: #01DF01;
+}
+
+#contecarru2{
+    background: #F2F2F2;
+    width: 100%;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.tituTestimonials{
+    margin-top: 10%;
+    position: absolute;
+   margin-left:39rem;
+   font-family: 'ABeeZee', sans-serif;
+    font-size: 3em;
+}
+
+.horizontalteti{
+    border: 0;
+    width:3%; 
+    margin-top:13rem;
+    border-top: 2px solid #01DF01; 
+    border-bottom: 2px solid #01DF01; 
+    height:0;
+    position: absolute;
+    margin-left: 46rem;
+}
+
+#botocarru li{
+    background: #01DF01;
+    margin-top: 28rem;
+    height:50%;   
+}
+
+#botocarru{
+    
+    height: 50%;
+}
+
+#carrutesti{
+  
+    margin-top: 5%;
+    position: absolute;
+    height:30rem;
+}
+
+.rounded-circle{
+     margin-left: 43rem;
+     margin-top: 5%;
+     width:10%;
+     height:10%;
+}
+
+#contetextesti{
+    height: 100%;
+    color: #848484;
+   
+}
+
+.texttesti{
+    margin-top: 22%;
+}
+
+#footporta{
+    margin-top: 5%;
+}
+
+/*********************TEAM****************************/
+
+#conteteam{
+    margin-left: -9.20rem;
+}
+
+.subtituteam{
+    margin-top: 7rem;
+    color: #FFFFFF;
+}
+
+/*************************ANIMACION****************************/
+#titucambiacolo{
+    color:#000000; 
+    animation-name: cambiacolor;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    text-decoration: none;
+}
+
+@keyframes cambiacolor{
+    0% {color:#01DF01;}
+}
+
+#TituPrin{
+
+    font-family: 'ABeeZee', sans-serif;
+    color: #FFFFFF;
+    text-decoration: none; 
+    font-size: 2em;
+    float: left;
+    margin-top: -64%;
+    margin-left: -9rem;
+    animation-name: girar;
+    -webkit-transition: width 2s;/*hover*/
+    transition: height 2s;
+}
+
+#TituPrin:hover{
+    transform: rotate(20deg);
+}
+
+.tituBizPage2{
+    margin-left: 6rem;
+    color: #FFFFFF;
+    animation-name: girar;
+    -webkit-transition: width 2s;/*hover*/
+    transition: height 2s;
+}
+
+@keyframes  girar{
+
+    0% {transform:rotate(0deg);}
+    100% {transform:rotate(360deg);}
+
+}
+
+#conteclients{
+    height: 100px;
+    width: 100px;
+    
+    background-color: #c4f11e; 
+    animation-name:suma;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes  suma{
+
+   100% {transform:rotate(1000deg);}
+
+}
+
+.overlay{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background:  rgba(29, 33, 29, 0.8);
+    width: 100%;
+    height: 0;
+    transition: 1s ease;
+    overflow: hidden;   
+}
+
+.box:hover .overlay{
+    height: 100%;
+    cursor: pointer;
+}
+
+.colorblanco{
+    color: #FFFFFF;
+    margin: 10px;
+    margin-top: -4%;
+    text-decoration:none;
+    transition: color 1s linear 0.2s;
+}
+
+.colorblanco:hover {
+    color:#01DF01;
+}
